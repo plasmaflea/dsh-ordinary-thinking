@@ -32,7 +32,7 @@
 | 远端 | `https://github.com/plasmaflea/dsh-ordinary-thinking.git`（origin） |
 | 可见性 | PUBLIC |
 | 默认分支 | `main`（首次推送曾落在 `master`，已改并删除远端 master） |
-| 当前版本 | 见 `VERSION`（0.1.0）／标签 `v0.1.0` |
+| 当前版本 | 见 `VERSION`（0.1.1）／标签 `v0.1.1` |
 | topics | ai-agents, confirmation-bias, decision-making, llm, prompt-engineering, reasoning, skills |
 | 账号 | GitHub `plasmaflea`；`gh` 已登录（scope: `gist, read:org, repo`） |
 
