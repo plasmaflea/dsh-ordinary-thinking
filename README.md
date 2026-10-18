@@ -4,6 +4,8 @@
 
 A research counterpart to [dsh-thinking-models](https://github.com/plasmaflea/dsh-thinking-models). That repo asks *how to think without dropping edges*. This one asks *how ordinary people actually think, and why it sometimes works anyway*.
 
+> **当前版本 v0.1.0**（`VERSION` / `v0.1.0` 标签）。接手、改、验、发的完整流程见 [STATE.md](STATE.md)；变更历史见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 为什么要单独成仓库
 
 **普通人不是不能处理问题。** 倒推法在三种情况下也能得出正确结果：
